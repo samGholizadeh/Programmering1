@@ -1,8 +1,6 @@
 /*Assignment: Write a program that asks the user to input their
  * name and displays it togheter with current date and time.*/
 
-
-
 import java.util.GregorianCalendar;
 import java.util.Scanner;
 

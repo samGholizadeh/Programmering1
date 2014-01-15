@@ -9,8 +9,6 @@
  To get the VN, you must use a for loop!
 */
 
-//Det paket classen befinner sig i. Måste deklareras
-
 
 //Importera de klasser programmer behöver från java biblioteket java.util.
 import java.util.Scanner;

@@ -17,7 +17,6 @@ To get the VN, you should also do the following:
 The program will ask, and be able to calculate, if more persons income tax is calculated before it quits.*/
 
 
-
 import java.util.Scanner;
 
 public class JensenUppgift4 {

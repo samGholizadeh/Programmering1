@@ -8,8 +8,6 @@
 
 */
 
-//Det paket klassen befinner sig i. Måste deklareras.
-
 
 //Importera de klasser programmet behöver från java standard klass biblioteket.
 import java.util.Scanner;
